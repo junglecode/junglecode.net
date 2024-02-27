@@ -9,7 +9,7 @@ categories:
 date: "2015-05-29T16:08:32Z"
 guid: http://junglecode.net/?p=198
 id: 198
-title: Firefox Platform Rendering &#8211; Current Work
+title: Firefox Platform Rendering & Current Work
 url: /firefox-platform-rendering-current-work/
 ---
 
